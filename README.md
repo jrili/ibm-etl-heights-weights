@@ -1,9 +1,9 @@
 # ETL Project: Heights and Weights
-_Instructions and dataset aken from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera_
+_Instructions and dataset taken from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera_
 
 # Links
-|            |      |
-| ---------- | -----|
+|     Item       |   Link   |
+| -------------- | ---------|
 |Course Link | [IBM: Python Project for Data Engineering (Coursera)](https://www.coursera.org/learn/python-project-for-data-engineering) |
 | Dataset (multiple formats) | https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/source.zip |
 | Author's Course Completion Certificate|[Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3) |
@@ -14,9 +14,9 @@ _Instructions and dataset aken from IBM's [Python Project for Data Engineering](
 wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/source.zip
 ```
 
-## 2. Unzip the downloaded file
+## 2. Unzip the downloaded file into a directory named `source`
 ```
-unzip source.zip
+unzip source.zip -d source
 ```
 
 ## 3. Import required libraries
