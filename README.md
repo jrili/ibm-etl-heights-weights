@@ -23,6 +23,9 @@ unzip source.zip -d source
 ```
 
 ## 3. Import required libraries
+```
+python -m pip install -r requirements.txt
+```
 
 # Project Tasks
 
