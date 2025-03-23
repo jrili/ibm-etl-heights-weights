@@ -22,7 +22,7 @@ wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDevel
 unzip source.zip -d source
 ```
 
-## 3. Import required libraries
+## 3. Install required libraries
 ```
 python -m pip install -r requirements.txt
 ```
