@@ -14,7 +14,7 @@ _Instructions and dataset taken from IBM's [Python Project for Data Engineering]
 wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/source.zip
 ```
 > [!NOTE]
-> In case of unavailability, a snapshot of source.zip is also available in the root directory
+> In case of unavailability, a snapshot of source.zip is also available in the root directory.
 > Date of snapshot: `2025 Mar 23`
 
 ## 2. Unzip the downloaded file into a directory named `source`
