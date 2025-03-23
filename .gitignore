@@ -1,3 +1,4 @@
 source
 *.csv
 log*.txt
+.ipynb_checkpoints/
