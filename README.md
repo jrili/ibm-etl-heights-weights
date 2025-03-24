@@ -9,6 +9,14 @@ _Instructions and dataset taken from IBM's [Python Project for Data Engineering]
 | Author's Course Completion Certificate|[Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3) |
 | Author's LinkedIn | [jessa-rili-migrino](https://www.linkedin.com/in/jessa-rili-migrino/) |
 
+# Dataset Details
+| Column Name | Data Type | Details                        | Expected Output |
+| ----------- | --------- |------------------------------- | --------------- |
+| name        | string    | Name of the person             | as-is input |
+| height      | float     | Height of the person in inches | Height in meters |
+| weight      | float     | Weight of the person in pounds | Weight in kilograms |
+
+
 # Prerequisite Steps
 ## 1.  Gather the data files
 ```
