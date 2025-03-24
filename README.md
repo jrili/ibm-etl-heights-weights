@@ -48,11 +48,12 @@ Create a `log_progress()` function that writes the following to a log file:
 - event details
 - current date and time at time of event
 
-# How to execute:
+# How to execute as script:
 _(Tested in Python 3.13)_
 ```
 python etl_code.py
 ```
+_Also available with sample outputs and explanations in notebook: [etl_heights_weights.ipynb](https://github.com/jrili/ibm-etl-heights-weights/blob/master/etl_heights_weights.ipynb)_
 
 # Acknowledgements
 ## Course Instructors
