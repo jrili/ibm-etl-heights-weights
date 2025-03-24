@@ -39,9 +39,9 @@ def extract_from_xml(file_to_process):
         height = float(person.find("height").text)
         weight = float(person.find("weight").text)
 
-        rows_list.append([{"name":name, "height":height, "weight":weight}])
+        rows_list.append({"name":name, "height":height, "weight":weight})
 
-    return pd.DataFrame(rows_list)
+    return pd.DataFrame.from_dict(rows_list)
 
 def extract():
     log("In extract(): started")
@@ -69,7 +69,8 @@ def extract():
 
     # Concatenate all dataframes in the extracted_dfs_list
     # into a single DataFrame
-    extracted_data = pd.concat(extracted_dfs_list)
+    # Note that ignore_index is set to True so that the index is rebuilt with properly incrementing values
+    extracted_data = pd.concat(extracted_dfs_list, ignore_index=True)
 
     log("In extract(): ended")
     return extracted_data
