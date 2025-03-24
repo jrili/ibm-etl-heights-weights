@@ -8,6 +8,7 @@ _Instructions and dataset taken from IBM's [Python Project for Data Engineering]
 | Dataset (multiple formats) | https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/source.zip |
 | Author's Course Completion Certificate|[Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3) |
 | Author's LinkedIn | [jessa-rili-migrino](https://www.linkedin.com/in/jessa-rili-migrino/) |
+| Author's Data Engineer Portfolio | [jrili/data-engineer-portfolio](https://github.com/jrili/data-engineer-portfolio) |
 
 # Dataset Details
 | Column Name | Data Type | Details                        | Expected Output |
