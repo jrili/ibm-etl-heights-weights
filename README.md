@@ -7,6 +7,7 @@ _Instructions and dataset taken from IBM's [Python Project for Data Engineering]
 |Course Link | [IBM: Python Project for Data Engineering (Coursera)](https://www.coursera.org/learn/python-project-for-data-engineering) |
 | Dataset (multiple formats) | https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/source.zip |
 | Author's Course Completion Certificate|[Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3) |
+| Author's LinkedIn | [jessa-rili-migrino](https://www.linkedin.com/in/jessa-rili-migrino/) |
 
 # Prerequisite Steps
 ## 1.  Gather the data files
